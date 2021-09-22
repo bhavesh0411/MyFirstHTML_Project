@@ -1,3 +1,3 @@
-# MyFirstHTML_Project
+# MyFirstWebPage_Project
 
 A basic webPage.
